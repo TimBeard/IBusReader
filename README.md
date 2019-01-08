@@ -1,2 +1,2 @@
-# Arduino-ibus
+# IBusReader for Arduino
 A FlySky I-Bus protocol interpreter
